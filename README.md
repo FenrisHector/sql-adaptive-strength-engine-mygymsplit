@@ -109,29 +109,30 @@ sql-adaptive-strength-engine/
 └── README.md              # Project documentation
 ```
 
-## Autor
+## Author
 
 Héctor Zamorano García
 
-## Créditos
+## Credits
 
-Proyecto desarrollado íntegramente por el autor, con apoyo puntual de herramientas de asistencia de inteligencia artificial (principalmente GitHub Copilot) para tareas menores como generación de datos sintéticos o autocompletado de sentencias SQL.  
-Toda la lógica de negocio, diseño del esquema, decisiones analíticas y validación fueron realizadas manualmente.
+Project developed entirely by the author, with occasional support from AI-assistance tools (mainly GitHub Copilot) for minor tasks such as synthetic data generation or SQL statement autocompletion.  
+All business logic, schema design, analytical decisions, and validation were performed manually.
 
-## Requisitos Técnicos
+## Technical Requirements
 
 * SQLite 3.45+
-* Cualquier cliente SQL (DBeaver, SQLiteStudio, VSCode + Extensión SQL)
-* Capacidad para ejecutar scripts `.sql` de creación, seed y análisis
-* Sistema operativo: Windows / Linux / macOS
+* Any SQL client (DBeaver, SQLiteStudio, VSCode + SQL Extension)
+* Ability to execute `.sql` scripts for creation, seed, and analysis
+* Operating system: Windows / Linux / macOS
 
-## Notas
+## Notes
 
-Este proyecto fue concebido con fines educativos y de experimentación aplicada al entrenamiento de fuerza.  
-Aunque se basa en una rutina real y principios fundamentados en fisiología, su propósito es el análisis técnico y no reemplaza asesoramiento profesional.
+This project was conceived for educational purposes and experimentation applied to strength training.  
+Although it is based on a real routine and principles grounded in physiology, its purpose is technical analysis and it does not replace professional guidance.
 
-## Licencia
+## License
 
-Este proyecto se distribuye únicamente con fines académicos, analíticos y de investigación.  
-Se permite su lectura y uso personal.  
-Queda prohibido su uso comercial o redistribución sin autorización expresa del autor.
+This project is distributed solely for academic, analytical, and research purposes.  
+Reading and personal use are permitted.  
+Commercial use or redistribution is prohibited without the author's explicit authorization.
+
